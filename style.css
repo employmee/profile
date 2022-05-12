@@ -36,6 +36,7 @@ a {
 .container {
   width: 640px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
+  margin-top: 40px;
 }
 
 .card {
